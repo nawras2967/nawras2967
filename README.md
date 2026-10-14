@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nawras2967/nawras2967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./hero-calligraphy-animated.png" width="100%">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./calligraphy.png" width="190">
+
+# PALOMA CASABONA
+
+`WEB DEVELOPMENT` · `CYBERSECURITY` · `DESIGN`
+
+<img src="./canelica.GIF" width="110">
+
+<sub>builder of pixels & firewalls</sub>
+
+</div>
