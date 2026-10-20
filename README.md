@@ -4,7 +4,6 @@
 
 <br>
 
-<img src="./calligraphy.png" width="190">
 
 # PALOMA CASABONA
 
