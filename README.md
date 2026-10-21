@@ -6,7 +6,6 @@
 
 
 
-`WEB DEVELOPMENT` · `CYBERSECURITY` · `DESIGN`
 
 <img src="./canelica.GIF" width="110">
 
