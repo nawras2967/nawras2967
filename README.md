@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="./hero-calligraphy-animated.png" width="100%">
-
-<br>
-
-
-
-
-
-<sub>builder of pixels & firewalls</sub>
-
-</div>
+<p align="center">
+  <img src="./matrix_arabe_kufi.gif" width="100%" alt="Arabic Matrix Animation">
+</p>
