@@ -7,7 +7,6 @@
 
 
 
-<img src="./canelica.GIF" width="110">
 
 <sub>builder of pixels & firewalls</sub>
 
